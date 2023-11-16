@@ -1,3 +1,9 @@
+
+"""
+EVERYTHING WORKS, THIS FILE, AND THE BALL AND RUN_BALL TOO.
+I JUST MADE THIS FILE TO EXPERIMENT
+"""
+
 import turtle
 import random
 
